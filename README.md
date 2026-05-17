@@ -4,7 +4,7 @@ Full-stack engineer building AI-native products. I work fast, own the full stack
 
 Currently building:
 - **[Hahushop](https://hahushop.vercel.app)** — a multi-sided marketplace with Stripe payments, Supabase auth, seller dashboards, and order management
-- **Aither** — an AI health diagnostics platform for emotional analysis and risk assessment
+- **Aither** — Building an AI health diagnostics platform for emotional analysis and risk assessment
 - Built other apps and automations with company based engineers
 
 **Stack I work with:** Next.js · TypeScript · React · Supabase · PostgreSQL · Stripe · Python · Tailwind CSS
