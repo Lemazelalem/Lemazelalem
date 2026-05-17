@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Lema 👋
 
-<!--
-**Lemazelalem/Lemazelalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer building AI-native products. I work fast, own the full stack, and ship without needing a spec.
 
-Here are some ideas to get you started:
+Currently building:
+- **[Hahushop](https://hahushop.vercel.app)** — a multi-sided marketplace with Stripe payments, Supabase auth, seller dashboards, and order management
+- **Aither** — an AI health diagnostics platform for emotional analysis and risk assessment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack I work with:** Next.js · TypeScript · React · Supabase · PostgreSQL · Stripe · Python · Tailwind CSS
+
+**How I build:** AI-native workflows with Cursor, Claude Code, and GitHub Copilot as daily tools — not buzzwords.
+
+📫 Reach me: lemazelalem3@gmail.com 
