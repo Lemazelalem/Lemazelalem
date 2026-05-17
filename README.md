@@ -9,6 +9,20 @@ Currently building:
 
 **Stack I work with:** Next.js · TypeScript · React · Supabase · PostgreSQL · Stripe · Python · Tailwind CSS
 
-**How I build:** I code, AI-native workflows with Cursor, Claude Code, and GitHub Copilot as daily tools — not buzzwords.
+**How I build:** I code, AI-native workflows with Cursor, Claude Code, and GitHub Copilot as daily tools 
 
-📫 Reach me: lemazelalem3@gmail.com 
+
+**Background**
+
+- BSc Economics — brings product and business thinking into how I build (pricing systems, marketplace dynamics, financial workflows)
+
+- Proficient in ArcGIS — spatial data analysis and geographic visualization
+
+- Data analyst proficient in Power BI, Tableau, and Excel — experienced turning raw data into dashboards and business insights
+
+Reach me at:
+**lemazelalem3@gmail.com**_
+
+
+
+
