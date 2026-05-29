@@ -3,7 +3,9 @@
 Full-Stack Product Engineer building AI-native products. I work fast, own the full stack, and ship without needing a spec.
 
 Currently building:
-- **[Hahushop](https://hahushop.vercel.app)** — [Mobile + Desktop] a multi-sided marketplace with Stripe payments, Supabase auth, seller dashboards, and order management
+- **[Hahushop](https://hahushop.vercel.app)** — 
+https://github.com/user-attachments/assets/74b8ebde-3a13-4e56-9cde-452a2c255c45
+ + Desktop] a multi-sided marketplace with Stripe payments, Supabase auth, seller dashboards, and order management
 - **Aither** — Building an AI health diagnostics platform for emotional analysis and risk assessment
 - Built other apps and automations with company based engineers
 
