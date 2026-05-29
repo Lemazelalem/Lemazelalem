@@ -14,14 +14,14 @@ Currently building:
 
 **Background**
 
-- BSc Economics — brings product and business thinking into how I build (pricing systems, marketplace dynamics, financial workflows)
+- BSc Economics :- brings product and business thinking into how I build (pricing systems, marketplace dynamics, financial workflows)
 
-- Proficient in ArcGIS — spatial data analysis and geographic visualization
+- Proficient in ArcGIS :- spatial data analysis and geographic visualization
 
 - Data analyst proficient in Power BI, Tableau, and Excel — experienced turning raw data into dashboards and business insights
 
 Reach me at:
-**lemazelalem3@gmail.com**_
+**lemazelalem3@gmail.com**
 
 
 
