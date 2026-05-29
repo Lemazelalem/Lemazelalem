@@ -1,6 +1,6 @@
 # Hey, I'm Lema 👋
 
-ull-Stack Product Engineer building AI-native products. I work fast, own the full stack, and ship without needing a spec.
+Full-Stack Product Engineer building AI-native products. I work fast, own the full stack, and ship without needing a spec.
 
 Currently building:
 - **[Hahushop](https://hahushop.vercel.app)** — [Mobile + Desktop] a multi-sided marketplace with Stripe payments, Supabase auth, seller dashboards, and order management
